@@ -1,0 +1,24 @@
+
+/* Class = "UISegmentedControl"; 4Ha-4I-dYF.segmentTitles[0] = "18%"; ObjectID = "4Ha-4I-dYF"; */
+"4Ha-4I-dYF.segmentTitles[0]" = "18%";
+
+/* Class = "UISegmentedControl"; 4Ha-4I-dYF.segmentTitles[1] = "20%"; ObjectID = "4Ha-4I-dYF"; */
+"4Ha-4I-dYF.segmentTitles[1]" = "20%";
+
+/* Class = "UISegmentedControl"; 4Ha-4I-dYF.segmentTitles[2] = "22%"; ObjectID = "4Ha-4I-dYF"; */
+"4Ha-4I-dYF.segmentTitles[2]" = "22%";
+
+/* Class = "UILabel"; text = "Bill Amount "; ObjectID = "AWZ-RA-cPg"; */
+"AWZ-RA-cPg.text" = "Bill Amount ";
+
+/* Class = "UILabel"; text = "Tip "; ObjectID = "CKS-Tk-d0a"; */
+"CKS-Tk-d0a.text" = "Tip ";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "fSS-t4-iOa"; */
+"fSS-t4-iOa.text" = "$100.00";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "qY4-Gf-Vyl"; */
+"qY4-Gf-Vyl.text" = "Total";
+
+/* Class = "UILabel"; text = "$10.00"; ObjectID = "z0n-3f-OES"; */
+"z0n-3f-OES.text" = "$10.00";
